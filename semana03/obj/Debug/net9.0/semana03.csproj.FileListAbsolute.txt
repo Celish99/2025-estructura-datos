@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\bin\Debug\net9.0\semana03.exe
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\bin\Debug\net9.0\semana03.deps.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\bin\Debug\net9.0\semana03.runtimeconfig.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\bin\Debug\net9.0\semana03.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\bin\Debug\net9.0\semana03.pdb
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.sourcelink.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\refint\semana03.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.pdb
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\semana03.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana03\obj\Debug\net9.0\ref\semana03.dll
