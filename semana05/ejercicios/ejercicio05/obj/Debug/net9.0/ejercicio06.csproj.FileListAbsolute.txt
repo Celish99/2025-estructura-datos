@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\bin\Debug\net9.0\ejercicio06.exe
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\bin\Debug\net9.0\ejercicio06.deps.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\bin\Debug\net9.0\ejercicio06.runtimeconfig.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\bin\Debug\net9.0\ejercicio06.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\bin\Debug\net9.0\ejercicio06.pdb
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.sourcelink.json
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\refint\ejercicio06.dll
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.pdb
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ejercicio06.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\uea\ESTRUCTURA-DATOS\semana05\ejercicios\ejercicio05\obj\Debug\net9.0\ref\ejercicio06.dll
