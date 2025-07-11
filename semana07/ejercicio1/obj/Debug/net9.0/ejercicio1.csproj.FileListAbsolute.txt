@@ -1,0 +1,15 @@
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana07\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
