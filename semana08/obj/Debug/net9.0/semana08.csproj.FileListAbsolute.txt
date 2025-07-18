@@ -1,0 +1,15 @@
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\bin\Debug\net9.0\semana08.exe
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\bin\Debug\net9.0\semana08.deps.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\bin\Debug\net9.0\semana08.runtimeconfig.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\bin\Debug\net9.0\semana08.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\bin\Debug\net9.0\semana08.pdb
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.AssemblyInfoInputs.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.AssemblyInfo.cs
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.csproj.CoreCompileInputs.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.sourcelink.json
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\refint\semana08.dll
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.pdb
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\semana08.genruntimeconfig.cache
+C:\Users\valco\Documents\UEA\2025-estructura-datos\semana08\obj\Debug\net9.0\ref\semana08.dll
